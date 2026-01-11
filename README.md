@@ -29,4 +29,4 @@ Interface limpa e moderna<br>
 
 🚀 Autor
 Projeto desenvolvido por Rogério Costa
-🔗 <a href="https://www.linkedin.com/in/rogeriocosta-of/" target=_blank>Linkedin</a>
+🔗 <a href="https://www.linkedin.com/in/rogeriocosta-of/" target="_blank">LINKEDIN</a>
