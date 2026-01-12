@@ -1,4 +1,4 @@
-<h1>💻 Projeto Front-End – Abertura de Conta <br>(Banco Next | Simulação)</h1>
+<h1>💻 Simulação - Tela Abertura de Conta <br>(Banco Next )</h1>
 
 Projeto desenvolvido para fins educacionais, como parte dos meus estudos em HTML e CSS no curso Full Stack (Front-End).
 <br>A aplicação simula uma tela de abertura de  uma conta digital, inspirada no Banco NEXT, com foco em layout, design e experiência do usuário.<br>
